@@ -6,7 +6,6 @@ import image1 from "../assets/GalleryPage/image1.jpg";
 import image2 from "../assets/GalleryPage/image2.jpg";
 import image3 from "../assets/GalleryPage/image3.jpg";
 import image4 from "../assets/GalleryPage/image4.jpg";
-import image5 from "../assets/GalleryPage/image5.jpg";
 import image6 from "../assets/GalleryPage/image6.jpg";
 import image7 from "../assets/GalleryPage/Khmer Theme.jpg";
 
@@ -54,7 +53,7 @@ const AboutUsPage = () => {
           <p>
             At La Couture Phnom Penh, we are passionate about creating
             unforgettable wedding experiences that celebrate love, culture, and
-            individuality. As Phnom Penh’s premier wedding boutique, we
+            individuality. As Phnom Penhs premier wedding boutique, we
             specialize in designing bespoke wedding events that blend Khmer
             tradition with modern elegance.
           </p>
@@ -74,10 +73,10 @@ const AboutUsPage = () => {
         </div>
       </section>
       <section className="showing">
-        <img src={image1} alt="Wedding Image 7" />
-        <img src={image2} alt="Wedding Image 8" />
-        <img src={image3} alt="Wedding Image 9" />
-        <img src={image4} alt="Wedding Image 10" />
+        <img src={image1} alt="Wedding 7" />
+        <img src={image2} alt="Wedding  8" />
+        <img src={image3} alt="Wedding 9" />
+        <img src={image4} alt="Wedding 10" />
       </section>
 
       <section className="gallery-section">
