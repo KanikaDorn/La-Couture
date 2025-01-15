@@ -92,12 +92,12 @@ const AboutUsPage = () => {
         </p>
         <h2>Our Passion is Your Perfect Event</h2>
         <div className="gallery-grid">
-          <img src={image1} alt="Wedding Image 1" />
-          <img src={image6} alt="Wedding Image 2" />
-          <img src={image3} alt="Wedding Image 3" />
-          <img src={image4} alt="Wedding Image 4" />
-          <img src={image7} alt="Wedding Image 5" />
-          <img src={image2} alt="Wedding Image 6" />
+          <img src={image1} alt="Wedding  1" />
+          <img src={image6} alt="Wedding  2" />
+          <img src={image3} alt="Wedding  3" />
+          <img src={image4} alt="Wedding  4" />
+          <img src={image7} alt="Wedding  5" />
+          <img src={image2} alt="Wedding  6" />
         </div>
       </section>
     </div>

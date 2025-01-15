@@ -1,6 +1,6 @@
 .hero {
   position: relative; /* Set position for pseudo-element */
-  background-image: url("D:\la-couture\src\assets\GalleryPage\a.jpg");
+  background-image: url("../assets/GalleryPage/a.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
